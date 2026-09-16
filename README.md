@@ -49,7 +49,7 @@
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-    <img height="30px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
